@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sbwd:block/prismicplush",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "sbwd:block/prismicplush"
+    },
+    "facing=south": {
+      "model": "sbwd:block/prismicplush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sbwd:block/prismicplush",
+      "y": 270
+    }
+  }
+}

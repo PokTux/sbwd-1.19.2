@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "sbwd:block/roseplush",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "sbwd:block/roseplush"
+    },
+    "facing=south": {
+      "model": "sbwd:block/roseplush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sbwd:block/roseplush",
+      "y": 270
+    }
+  }
+}

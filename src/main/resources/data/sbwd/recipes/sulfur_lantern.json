@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "sbwd:sulfur"
+    },
+    "X": {
+      "item": "sbwd:lead_nugget"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "item": "sbwd:sulfur_lantern"
+  }
+}

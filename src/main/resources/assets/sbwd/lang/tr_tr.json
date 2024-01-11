@@ -1,0 +1,42 @@
+{
+  "item.sbwd.raw_lead": "Ham Kurşun",
+  "item.sbwd.lead_ingot": "Kurşun Külçesi",
+  "item.sbwd.lead_nugget": "Kurşun Parçası",
+  "item.sbwd.lead_pipe": "Kurşun Boru",
+  "item.sbwd.sulfur": "Kükürt",
+  "item.sbwd.he_compound": "Patlıyacı Madde",
+  "item.sbwd.uranium": "Uranyum",
+  "item.sbwd.plutonium": "Plütonyum",
+  "item.sbwd.lead_canister": "Kurşun Tenekesi",
+
+  "item.sbwd.lead_pickaxe": "Kurşun Kazma",
+  "item.sbwd.lead_shovel": "Kurşun Kürek",
+  "item.sbwd.lead_axe": "Kurşun Balta",
+  "item.sbwd.lead_hoe": "Kurşun Çapa",
+
+  "block.sbwd.lead_ore": "Kurşun Cevheri",
+  "block.sbwd.lead_block": "Kurşun Bloğu",
+  "block.sbwd.uranium_ore": "Uranyum Cevheri",
+  "block.sbwd.sulfur_block": "Kükürt Bloğu",
+  "block.sbwd.sulfur_ore": "Kükürt Cevheri",
+  "block.sbwd.deepslate_sulfur_ore": "Derin Kayrak Kükürt Cevheri",
+  "block.sbwd.nether_sulfur_ore": "Nether Kükürt Cevheri",
+  "block.sbwd.uranium_block": "Uranyum Bloğu",
+  "block.sbwd.plutonium_block": "Plütonyum Bloğu",
+  "block.sbwd.bed_tnt": "Nether Yatak Bomba",
+  "block.sbwd.thermobaric_tnt": "Termobarik Bomba",
+  "block.sbwd.nuke_tnt": "Kuçük Atom Bomba",
+  "block.sbwd.rtg": "Radyoizotop Termoelektrik Jeneratör",
+
+  "item.sbwd.artist_billet": "Psikedelik Kılıç Parçası",
+  "item.sbwd.artist_sword": "İllüstratörün Psikedelik Kılıcı",
+  "item.sbwd.programmer_axe": "Programcının Şipşak Baltası",
+
+  "block.sbwd.sulfur_lantern": "Kükürt Fener",
+  "item.sbwd.lead_sword": "Kurşun Kılıç",
+
+  "block.sbwd.prismicplush": "İllüstratör Oyuncak",
+  "block.sbwd.roseplush": "Programcı Oyuncak",
+
+  "itemGroup.sbwd.sbwd": "Kükürt Kunalarak Alet Geliştirmesi"
+}

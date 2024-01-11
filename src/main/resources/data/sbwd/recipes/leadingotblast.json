@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "sbwd:raw_lead"
+  },
+  "result": "sbwd:lead_ingot"
+}

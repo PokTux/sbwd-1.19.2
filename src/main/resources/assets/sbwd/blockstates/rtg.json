@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "sbwd:block/rtg"
+    },
+    "hanging=true": {
+      "model": "sbwd:block/rtg"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "sbwd",
+  "version": "${version}",
+
+  "name": "Sulfur Based Weapons Development",
+  "description": "Who doesn't want more bombs? \n(Note: Developer weapons (Blade & Hatchet) are not well balanced around vanilla Minecraft so use them with your own discretion, it is also recommended they are used with the mods 'Better Combat' and 'Simply Swords' (else the Hatchet will be missing animations)) \n(Disclaimer: Code for the nuke is mostly copied from the mod 'Mythic Metals' which according to the license of that mod is allowed)",
+  "authors": [
+    "Rose",
+    "Prismic"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.rose.sbwd.sbwd"
+    ]
+  },
+  "mixins": [
+    "sbwd.mixins.json"
+  ],
+  "client": [
+    "net.rose.sbwd.sbwdClient"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.15",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:tinted_glass"
+    },
+    "R": {
+      "item": "minecraft:rose_bush"
+    },
+    "W": {
+      "item": "minecraft:magenta_wool"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "WRW",
+    "WWW"
+  ],
+  "result": {
+    "item": "sbwd:roseplush"
+  }
+}

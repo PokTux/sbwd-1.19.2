@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:deepslate"
+    },
+    "C": {
+      "item": "sbwd:lead_block"
+    },
+    "L": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "pattern": [
+    "LCL",
+    "RLR",
+    "LCL"
+  ],
+  "result": {
+    "item": "minecraft:reinforced_deepslate"
+  }
+}

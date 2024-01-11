@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "sbwd:block/sulfur_lantern"
+    },
+    "hanging=true": {
+      "model": "sbwd:block/sulfur_lantern_hanging"
+    }
+  }
+}

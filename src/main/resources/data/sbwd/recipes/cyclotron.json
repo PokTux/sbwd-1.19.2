@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 12000,
+  "experience": 2.8,
+  "ingredient": {
+    "item": "sbwd:uranium"
+  },
+  "result": "sbwd:plutonium"
+}

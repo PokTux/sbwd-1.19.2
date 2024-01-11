@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "sbwd:block/thermobaric_bomb_b",
+    "side": "sbwd:block/thermobaric_bomb_s",
+    "top": "sbwd:block/thermobaric_bomb_t"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "sbwd:uranium_ore",
+    "sbwd:uranium_block",
+    "sbwd:plutonium_block"
+  ]
+}

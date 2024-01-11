@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "sbwd:sulfur_block"
+    },
+    "B": {
+      "item": "sbwd:artist_billet"
+    },
+    "P": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PBP"
+  ],
+  "result": {
+    "item": "sbwd:artist_sword"
+  }
+}

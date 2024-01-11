@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "P": {
+      "item": "sbwd:plutonium_block"
+    },
+    "U": {
+      "item": "sbwd:uranium_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "L": {
+      "item": "sbwd:lead_ingot"
+    }
+  },
+  "pattern": [
+    "LUL",
+    "LPL",
+    "LNL"
+  ],
+  "result": {
+    "item": "sbwd:artist_billet"
+  }
+}

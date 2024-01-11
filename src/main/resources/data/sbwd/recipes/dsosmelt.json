@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "sbwd:deepslate_sulfur_ore"
+  },
+  "result": "sbwd:sulfur"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "sbwd:plutonium"
+    },
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "L": {
+      "item": "sbwd:lead_ingot"
+    }
+  },
+  "pattern": [
+    "LCL",
+    "LRL",
+    "LCL"
+  ],
+  "result": {
+    "item": "sbwd:rtg"
+  }
+}

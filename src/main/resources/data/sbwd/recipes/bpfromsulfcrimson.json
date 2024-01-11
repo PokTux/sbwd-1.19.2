@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "sbwd:sulfur"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:blaze_powder"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "sbwd:he_compound"
+    },
+    "L": {
+      "item": "sbwd:lead_canister"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "LRL",
+    "CLC"
+  ],
+  "result": {
+    "item": "sbwd:thermobaric_tnt"
+  }
+}

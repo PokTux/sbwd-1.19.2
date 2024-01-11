@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "minecraft:nether_brick"
+    },
+    "C": {
+      "item": "sbwd:he_compound"
+    },
+    "L": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "LRL",
+    "CLC"
+  ],
+  "result": {
+    "item": "sbwd:bed_tnt"
+  }
+}

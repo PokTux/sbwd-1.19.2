@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "sbwd:lead_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " L ",
+    " L ",
+    " S "
+  ],
+  "result": {
+    "item": "sbwd:lead_sword"
+  }
+}

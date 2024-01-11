@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "sbwd:lead_ore",
+    "sbwd:lead_block",
+    "sbwd:sulfur_ore",
+    "sbwd:nether_sulfur_ore",
+    "sbwd:deepslate_sulfur_ore",
+    "sbwd:sulfur_block"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": {
+      "item": "sbwd:plutonium_block"
+    },
+    "C": {
+      "item": "sbwd:he_compound"
+    },
+    "L": {
+      "item": "sbwd:lead_block"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "LRL",
+    "CLC"
+  ],
+  "result": {
+    "item": "sbwd:nuke_tnt"
+  }
+}

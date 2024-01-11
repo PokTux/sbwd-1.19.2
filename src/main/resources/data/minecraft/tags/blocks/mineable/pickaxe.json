@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "sbwd:lead_ore",
+    "sbwd:lead_block",
+    "sbwd:sulfur_ore",
+    "sbwd:nether_sulfur_ore",
+    "sbwd:deepslate_sulfur_ore",
+    "sbwd:rtg",
+    "sbwd:uranium_ore",
+    "sbwd:uranium_block",
+    "sbwd:plutonium_block",
+    "sbwd:sulfur_block",
+    "sbwd:sulfur_lantern"
+  ]
+}

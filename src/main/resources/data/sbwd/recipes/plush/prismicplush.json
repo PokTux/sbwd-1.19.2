@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "minecraft:black_wool"
+    },
+    "R": {
+      "item": "minecraft:seagrass"
+    },
+    "W": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "TRT",
+    "WTW"
+  ],
+  "result": {
+    "item": "sbwd:prismicplush"
+  }
+}
