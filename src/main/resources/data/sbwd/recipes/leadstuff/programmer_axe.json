@@ -4,12 +4,15 @@
     "L": {
       "item": "sbwd:plutonium"
     },
+    "D": {
+      "item": "minecraft:dragon_breath"
+    },
     "S": {
       "item": "minecraft:echo_shard"
     }
   },
   "pattern": [
-    "LLS",
+    "LLD",
     "LS ",
     " S "
   ],
