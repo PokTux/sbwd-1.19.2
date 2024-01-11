@@ -2,17 +2,20 @@
   "type": "minecraft:crafting_shaped",
   "key": {
     "L": {
-      "item": "sbwd:plutonium"
+      "item": "sbwd:plutonium_block"
     },
     "D": {
       "item": "minecraft:dragon_breath"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
     },
     "S": {
       "item": "minecraft:echo_shard"
     }
   },
   "pattern": [
-    "LLD",
+    "LND",
     "LS ",
     " S "
   ],
